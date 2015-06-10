@@ -9,6 +9,10 @@
     <!-- ActionBar styles -->
     <style name="MyActionBar"
         parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@drawable/ic_action_search</item>
+    </style>
+
+    <style name="MyActionBarFlowers" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
         <item name="android:background">@drawable/alyssum_flowers</item>
     </style>
 
